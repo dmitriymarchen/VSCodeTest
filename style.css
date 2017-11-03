@@ -1,9 +1,12 @@
 body {
-	background-color: rgb(190, 185, 185);
+	background-color: darkgray;
 	color: rgb(12, 4, 54);
 }
 .d111 {
 	color: rgb(91, 4, 109)
+}
+.d222 {
+	color: white;
 }
 .d555 {
 	color: rgb(146, 94, 94);
