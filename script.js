@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function() {/*
 	$(".d111").css("background", "purple");
 	$(".d222").css("background", "darkblue");
 	$(".d333").css("background", "darkgray");
@@ -12,5 +12,5 @@ $(document).ready(function() {
 			// out
 			$(this).css("color", "black");
 		}
-	);
+	);*/
 });
