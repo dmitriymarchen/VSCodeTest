@@ -1,11 +1,14 @@
 body {
-	background-color: gray;
+	background-color: darkgray;
 	color: rgb(12, 4, 54);
 	width: 970px;
 	margin: 0 auto;
 }
 .d111 {
-	color: rgb(30, 139, 58)
+	color: rgb(91, 4, 109)
+}
+.d222 {
+	color: white;
 }
 .d555 {
 	color: rgb(146, 94, 94);
